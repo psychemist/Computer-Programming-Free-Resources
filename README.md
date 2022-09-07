@@ -153,8 +153,7 @@ revise topics and/or hunt resources on what I am currently learning. Do not thro
 
 #### JavaScript
 Now, you are learning your first programming language. You should have completed all 5 freeCodeCamp projects at least.  
-If not, go back [here](https://github.com/110nard0/Software-Engineering-Free-Roadmap#html--css).  
-If yes, proceed...
+If not, go back [here](https://github.com/110nard0/Software-Engineering-Free-Roadmap#html--css). If yes, proceed...
 - [Modern JavaScript Tutorial:](https://javascript.info/) I really like this online tutorial. Most of the links the Odin project points redirects are to the site. 
 I find the method of delivery to be a balance of theory and tasks, which is ideal for learning and recall.
 - [freeCodeCamp:](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) fCC's JS challenges. _Will update once I complete the challenges._
