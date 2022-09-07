@@ -38,6 +38,8 @@ this is more of a programming guide but I do not believe one can exist without t
 - You think you are not smart enough or do not know enough math.
 - You think you are too old to learn how to code.
 - You do not know what to do with your life.
+- You are a gifted kid with burnout.
+- ...
 
 ### This is NOT for you if...?
 - You already have a path in your head that you think works. Do you, boo.
@@ -63,8 +65,7 @@ I will be updating this section as I come across more links but for now, let's s
 - #### Learning to Learn
   It is important that you go through these two courses, even if you do not buy them or apply for financial aid to access the full versions with 
   assignments and a certificate. I cannot overstate how important they were in opening my eyes to what exactly I wanted to do with my brain, and 
-  undoing the damage of the traditional school system.  
-  I'll shut up now.  
+  undoing the damage of the traditional school system. Okay, I'll shut up now.  
   
   1. [Learning How to Learn](https://coursera.org/learn/learning-how-to-learn)  
   2. [Mindshift](https://coursera.org/learn/mindshift)  
@@ -76,14 +77,13 @@ I will be updating this section as I come across more links but for now, let's s
   I cannot stress this enough.  
   2. [No Zero Days](https://www.reddit.com/r/NonZeroDay/comments/1qbxvz/the_gospel_of_uryans01_helpful_advice_for_anyone/). Excellent advice methinks.
 
-
 ### Which programming language should I learn?
 
 If like me, once upon a time, you are stuck asking yourself this question, **YOU ARE MISSING THE POINT**. And wasting time too.  
 A programming language is just a tool used to create something or solve a problem using complex machinery. Read that again.   
 The specific language you use is mostly irrelevant if your problem is solved in the end.  
-In fact, the best way to learn coding is to think of a problem, Google a solution and learn whatever language offers the best, simplest or 
-most elegant solution. That's it.
+In fact, the best way to learn coding is to think of a problem, Google a solution and learn whatever language offers the best, simplest
+or most elegant solution. That's it.
 
 
 However, we are not in fantasy land and you need facts, so the path I recommend the most is **Web Development**. Why?:
@@ -126,7 +126,8 @@ Here are some pointers (based on my mistakes):
 the link between topics. Kowledge builds on knowledge. I advice you do same.  
 - All courses on edX and Coursera have a free version but you can apply for financial aid or to be an auditor to get access to assignments and certificates. 
 That is not totally necessary. Be on the lookout for scholarships from companies too, they are always flying around.
-- These are not the alpha and omega for learning. They are resources that left a lasting, good impression. I am only able to say this because i spent longer 
+- These are not the alpha and omega for learning. They are resources that left a lasting, good impression. I am only able to say this because I have spent 
+a longer period of time going through them. You do not have to suffer the same. 
 - You can do this. Period. End of story. The questions is, _do you want to?_  
 
 ### :computer: Introduction to Programming and Computer Science
@@ -137,7 +138,7 @@ This section is **non-negotiable**.
 - [Google IT Support:](https://www.coursera.org/professional-certificates/google-it-support) Great to have if you have zero computer experience but you can 
 move on to the next section while taking it ONLY if you are done with the previous three.
 
-### :globe_with_merdians: Fullstack Web Development
+### :globe_with_meridians: Fullstack Web Development
 #### HTML & CSS
 - [Interneting is Hard:](https://www.internetingishard.com/) Start here. Teaches the basics of web dev and makes your life easier down the line.
 - [Web Dev Bootcamp:](https://www.udemy.com/course/the-web-developer-bootcamp/) This is the paid course. It is the backbone of everything you will learn and 
@@ -146,35 +147,38 @@ complements freeCodeCamp nicely with thoughtful explanations. Invest.
 run away from the projects. This is the most vital resource on here because there is just so much content besides the website challenges: 
 blog, forum, podcast, even a music radio.
 - [The Odin Project:](https://www.theodinproject.com/paths) I found this after freeCodeCamp. They do almost the same thing but where fCC teaches extensively 
-and gives projects, these guys mostly point you to outside resources and teach fundamentals. While doing fCC projects, I check in here now and then to revise 
-topics and/or hunt resources on what I am currently learning. Do not throw it away but do not bother with every single project if you are doing fCC's as well.  
-You should be comfortable using Git and Github by now. Consult Project Odin's [resources](https://www.theodinproject.com/lessons/foundations-introduction-to-git) 
-and the official [documentation](https://git-scm.com/book).
+and gives projects, these guys teach fundamentals then point you to outside resources. While doing fCC projects, I check in here every now and then to 
+revise topics and/or hunt resources on what I am currently learning. Do not throw it away but do not bother with every single project if you are doing fCC's as well. 
+- [Frontend Mentor:](https://www.frontend-mentor.io/challenges) Start this once you are done with freeCodeCamp's responsive web design challenges.
 
 #### JavaScript
 Now, you are learning your first programming language. You should have completed all 5 freeCodeCamp projects at least.  
 If not, go back [here](https://github.com/110nard0/Software-Engineering-Free-Roadmap#html--css).  
 If yes, proceed...
-- [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
-- [Modern JavaScript Tutorial](https://javascript.info/)
+- [Modern JavaScript Tutorial:](https://javascript.info/) I really like this online tutorial. Most of the links the Odin project points redirects are to the site. 
+I find the method of delivery to be a balance of theory and tasks, which is ideal for learning and recall.
+- [freeCodeCamp:](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) fCC's JS challenges. _Will update once I complete the challenges._
+
+#### Tools
+- [freeCodeCamp:](https://www.freecodecamp.org/learn/front-end-development-libraries/) _Will update once I complete the challenges._
+- You should be comfortable using Git and Github by now. Consult Project Odin's [resources](https://www.theodinproject.com/lessons/foundations-introduction-to-git) 
+and the official [documentation](https://git-scm.com/book).
+- You should also have practice with [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/) at least. If not, learn.
+
 
 ## :bell: Dev Resources
 Important resources you will need on your journey.
-### General Resources- 
+### General Resources
 - [Git](http://learngitbranching.js.org/)
-- 
 
 ### Frontend Resources
 - [MDN](https://developer.mozilla.org/en-US/docs/Learn)
 - [CSS Tricks](https://css-tricks.com/)
 
-
 ### Backend Resources
 
-## :hug: Closing
+## :people_hugging: Closing
 I intentionally left out a ~~bunch~~ ton of stuff in order not to overwhelm you. The most important thing to do is *_start_*. Start now. Start scared. Start
-before you know what you are doing. The rest will come and it will get easier with time, I promise.
-- 
-- 
-
+before you know what you are doing. The rest will come and it will get easier with time, I promise. It may feel like nothing is happening for the longest time 
+but keep moving forward, knowledge compounds.
 
