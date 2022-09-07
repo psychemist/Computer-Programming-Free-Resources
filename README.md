@@ -18,7 +18,7 @@ I will present this matter-of-factly for sake of brevity.
 Let's begin.
 
 ### Why am I qualified to write this?
-- Because in many ways, I am still a beginner myself and I still undertand how hard it is to start something 
+- Because in many ways, I am still a beginner myself and I still understand how hard it is to start something 
 AKA looking at a blank screen on your code editor and going `WTFWTFWTFWTFWTF` till you close your laptop and go watch anime.  
 Yeah, me too.  
 - There is too much information out there so I am going to give you the minimum viable number of resources needed per topic so you can hit the ground 
@@ -48,7 +48,7 @@ this is more of a programming guide but I do not believe one can exist without t
 - You hate learning.
 
 ### CAVEAT
-1. Everything I share here is a result of being broke and the search for free things. I will only post **1** link to a paid course becasuse it is 
+1. Everything I share here is a result of being broke and the search for free things. I will only post **1** link to a paid course because it is 
 ABSOLUTELY important. I would advocate for a torrent download but if you can sacrifice a week/month of your favorite vice and save up for this course, 
 you will **DEFINITELY** have more "ginger" to finish it. There is no greater motivator to do something than investing in it. 
 (Look at me giving you advice and sh...)
@@ -113,7 +113,7 @@ particularly like this [section](https://github.com/bmorelli25/Become-A-Full-Sta
 and this [section](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer#games-and-challenge-websites) but you should start from the [beginning](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer#start-here), obviously.
 - These detailed [Roadmaps](https://roadmap.sh/)! Start exploring [here](https://roadmap.sh/frontend).  
 These two have basically all you want in a roadmap.  
-- The [OSSU](https://github.com/ossu/computer-science#curriculum) Computer Science cuririculum which I plan to go through once I have solid foundations.
+- The [OSSU](https://github.com/ossu/computer-science#curriculum) Computer Science curriculum which I plan to go through once I have solid foundations.
 
 
 ## :rocket: Takeoff
@@ -123,7 +123,7 @@ Here are some pointers (based on my mistakes):
 - There is no speed limit so you can go as fast or as slow as you need; the point is to *understand the fundamentals*.
 - Practice is 100% better than memorization. You learn by **failing** and **doing**. You'll find this out soon enough.
 - I will be arranging them in the order I *wish* I had taken them in, not in the order I took them because I now understand the flow and I can better see 
-the link between topics. Kowledge builds on knowledge. I advice you do same.  
+the link between topics. Knowledge builds upon knowledge. I advice you do same.  
 - All courses on edX and Coursera have a free version but you can apply for financial aid or to be an auditor to get access to assignments and certificates. 
 That is not totally necessary. Be on the lookout for scholarships from companies too, they are always flying around.
 - These are not the alpha and omega for learning. They are resources that left a lasting, good impression. I am only able to say this because I have spent 
@@ -143,7 +143,7 @@ move on to the next section while taking it ONLY if you are done with the previo
 - [Interneting is Hard:](https://www.internetingishard.com/) Start here. Teaches the basics of web dev and makes your life easier down the line.
 - [Web Dev Bootcamp:](https://www.udemy.com/course/the-web-developer-bootcamp/) This is the paid course. It is the backbone of everything you will learn and 
 complements freeCodeCamp nicely with thoughtful explanations. Invest.
-- [freeCodeCamp:](https://www.freecodecamp.org/learn/2022/responsive-web-design/) Start from the top, with the new Reponsive Web Design curriculum. Do not 
+- [freeCodeCamp:](https://www.freecodecamp.org/learn/2022/responsive-web-design/) Start from the top, with the new Responsive Web Design curriculum. Do not 
 run away from the projects. This is the most vital resource on here because there is just so much content besides the website challenges: 
 blog, forum, podcast, even a music radio.
 - [The Odin Project:](https://www.theodinproject.com/paths) I found this after freeCodeCamp. They do almost the same thing but where fCC teaches extensively 
@@ -178,7 +178,7 @@ Important resources you will need on your journey.
 ### Backend Resources
 
 ## :people_hugging: Closing
-I intentionally left out a ~~bunch~~ ton of stuff in order not to overwhelm you. The most important thing to do is *_start_*. Start now. Start scared. Start
+I intentionally left out a ~~bunch~~ ton of stuff in order not to overwhelm you. The most important thing to do is **_start_**. Start now. Start scared. Start
 before you know what you are doing. The rest will come and it will get easier with time, I promise. It may feel like nothing is happening for the longest time 
-but keep moving forward, knowledge compounds.
+but keep moving forward, knowledge compounds. I cannot wait for you to ask me fo more resources. **Ganbare!**
 
