@@ -112,7 +112,7 @@ are reading. I know I feel that way.
 particularly like this [section](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer#what-is-the-single-most-useful-cs-bookmark-you-have) 
 and this [section](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer#games-and-challenge-websites) but you should start from the [beginning](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer#start-here), obviously.
 - These detailed [Roadmaps](https://roadmap.sh/)! Start exploring [here](https://roadmap.sh/frontend).  
-These two have basically all you want in a roadmap.  
+These two have basically all you need in a roadmap.  
 - The [OSSU](https://github.com/ossu/computer-science#curriculum) Computer Science curriculum which I plan to go through once I have solid foundations.
 
 
@@ -158,7 +158,7 @@ If not, go back [here](https://github.com/110nard0/Software-Engineering-Free-Roa
 I find the method of delivery to be a balance of theory and tasks, which is ideal for learning and recall.
 - [freeCodeCamp:](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) fCC's JS challenges. _Will update once I complete the challenges._
 
-#### Tools
+#### Tools, Libraries, Frameworks
 - [freeCodeCamp:](https://www.freecodecamp.org/learn/front-end-development-libraries/) _Will update once I complete the challenges._
 - You should be comfortable using Git and Github by now. Consult Project Odin's [resources](https://www.theodinproject.com/lessons/foundations-introduction-to-git) 
 and the official [documentation](https://git-scm.com/book).
@@ -169,9 +169,10 @@ and the official [documentation](https://git-scm.com/book).
 Important resources you will need on your journey.
 ### General Resources
 - [Git](http://learngitbranching.js.org/)
+- [Pluralsight:](https://app.pluralsight.com/library/) Their introductory courses are a good alternative to Youtube tutorials. Look out for the GADS scholarship.
 
 ### Frontend Resources
-- [MDN](https://developer.mozilla.org/en-US/docs/Learn)
+- [MDN:](https://developer.mozilla.org/en-US/docs/Learn) Invaluable resource for web developers.
 - [CSS Tricks](https://css-tricks.com/)
 
 ### Backend Resources
