@@ -68,7 +68,8 @@ I will be updating this section as I come across more links but for now, let's s
   
   1. [Learning How to Learn](https://coursera.org/learn/learning-how-to-learn)  
   2. [Mindshift](https://coursera.org/learn/mindshift)  
-No, seriously, take them. This is the first step.
+
+  No, seriously, take them. This is the first step.
 
 - #### Growth Mindset & Grit
   1. Please watch _every_ video and read _every_ article linked on [this](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset) page.
@@ -97,19 +98,45 @@ I ruined it by mentioning weird terms at the end, didn't I? Well, at this point 
 Before you go to my roadmap, you should read this:
 - [Getting Started in Tech for Nigerians](https://medium.com/one-zero/a-nigerians-guide-to-a-career-in-tech-cdeaac6fd79a).  
 
-I will not be defining any obscure terms so I am going to lazily link 
+I will not be defining any terms here so I am going to lazily link 
 [this](https://medium.com/@meekg33k/getting-started-in-tech-what-you-need-to-know-7efec043ce03) and 
 [this](https://www.freecodecamp.org/news/how-to-kickstart-a-career-in-tech/).  
+
 Computer Science vs Computer Engineering? Programming vs Coding? Frontend vs Backend? Just [Google](https://www.google.com) it.
 There are 1001 in base 10 definitions and after enough time, either you get the hang of it or the differences cease to matter.
 
 
 ## :rocket: Takeoff
-From this point on, I will be shoving resources in your face. Here are some pointers:
+From this point on, I will be shoving courses and tutorials in your face. I hope you're ready.  
+Here are some pointers (based on my mistakes):
 - Please, try and take it a course at a time. Optimize for focus and attention over completion.
 - There is no speed limit so you can go as fast or as slow as you need; the point is to *understand the fundamentals*.
-- 
+- Practice is 100% better than memorization. You learn by **failing** and **doing**. You'll find this out soon enough.
+- You can do this. Period. End of story. The questions is, _do you want to?_  
+I will be arranging them in the order I *wish* I had taken them in, not in the order I took them because I now understand the flow and I can better see 
+the link between topics. Kowledge builds on knowledge. I advice you do same.  
+All courses on edX and Coursera have a free version but you can apply for financial aid or to be an auditor to get access to assignments and certificates. 
+That is not totally necessary. Be on the lookout for scholarships from companies too, they are always flying around.
 
-### Introduction to Programming 
+### Introduction to Programming and Computer Science
+This section is **non-negotiable**.
+- [freeCodeCamp on YouTube](https://www.youtube.com/watch?v=zOjov-2OZ0E&vl=en)
+- [CS50T on edX](https://www.edx.org/course/cs50s-understanding-technology)
+- [CS50x on edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+- [Google IT Support](https://www.coursera.org/professional-certificates/google-it-support) Great to have if you have zero computer experience but you can 
+move on to the next section while taking it ONLY if you are done with the previous three.
 
+### Web Development
+#### HTML & CSS
+- [Interneting is Hard](https://www.internetingishard.com/) Start here. Teaches the basics of web dev and makes your life easier down the line.
+- [freeCodeCamp](https://www.freecodecamp.org/learn) Start from the top, with the new Reponsive Web Design curriculum. This is the most vital resource on here. 
+Do not run away from the projects.
+- [The Odin Project](https://www.theodinproject.com/paths) I found this after freeCodeCamp. They do almost the same thing but where fCC teaches extensively 
+and gives projects, these guys mostly point you to outside resources and teach fundamentals. While doing fCC projects, I check in here now and then to revise 
+topics and/or hunt resources on what I am currently learning. Do not throw it away but do not 
+- [Web Dev Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) This is the paid course. It is the backbone of everything you will learn and 
+complements freeCodeCamp nicely with thoughtful explanations. Invest.
+
+### JavaScript
+Now, you are learning your first programming language.
 
