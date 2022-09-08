@@ -122,18 +122,19 @@ Here are some pointers (based on my mistakes):
 - Please, try and take it a course at a time. Optimize for focus and attention over completion.
 - There is no speed limit so you can go as fast or as slow as you need; the point is to *understand the fundamentals*.
 - Practice is 100% better than memorization. You learn by **failing** and **doing**. You'll find this out soon enough.
-- I will be arranging them in the order I *wish* I had taken them in, not in the order I took them because I now understand the flow and I can better see 
-the link between topics. Knowledge builds upon knowledge. I advice you do same.  
+- I will be arranging them in the order I *wish* I had taken them in, not in the order I took them. I did this because I now understand the flow and can 
+better see the link between topics. I advice you do same. Knowledge builds upon knowledge. 
 - All courses on edX and Coursera have a free version but you can apply for financial aid or to be an auditor to get access to assignments and certificates. 
 That is not totally necessary. Be on the lookout for scholarships from companies too, they are always flying around.
 - These are not the alpha and omega for learning. They are resources that left a lasting, good impression. I am only able to say this because I have spent 
-a longer period of time going through them. You do not have to suffer the same. 
+a longer period of time going through a lot more of them. You do not have to suffer the same. 
+- Be flexible! You can mix and match as long as you keep moving forward.
 - You can do this. Period. End of story. The questions is, _do you want to?_  
 
 ### :computer: Introduction to Programming and Computer Science
 This section is **non-negotiable**.
-- [freeCodeCamp on YouTube](https://www.youtube.com/watch?v=zOjov-2OZ0E&vl=en)
 - [CS50T on edX](https://www.edx.org/course/cs50s-understanding-technology)
+- [freeCodeCamp on YouTube](https://www.youtube.com/watch?v=zOjov-2OZ0E&vl=en)
 - [CS50x on edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 - [Google IT Support:](https://www.coursera.org/professional-certificates/google-it-support) Great to have if you have zero computer experience but you can 
 move on to the next section while taking it ONLY if you are done with the previous three.
@@ -141,7 +142,7 @@ move on to the next section while taking it ONLY if you are done with the previo
 ### :globe_with_meridians: Fullstack Web Development
 #### HTML & CSS
 - [Interneting is Hard:](https://www.internetingishard.com/) Start here. Teaches the basics of web dev and makes your life easier down the line.
-- [Web Dev Bootcamp:](https://www.udemy.com/course/the-web-developer-bootcamp/) This is the paid course. It is the backbone of everything you will learn and 
+- [The Web Developer Bootcamp:](https://www.udemy.com/course/the-web-developer-bootcamp/) This is the paid course. It is the backbone of everything you will learn and 
 complements freeCodeCamp nicely with thoughtful explanations. Invest.
 - [freeCodeCamp:](https://www.freecodecamp.org/learn/2022/responsive-web-design/) Start from the top, with the new Responsive Web Design curriculum. Do not 
 run away from the projects. This is the most vital resource on here because there is just so much content besides the website challenges: 
@@ -181,4 +182,7 @@ Important resources you will need on your journey.
 I intentionally left out a ~~bunch~~ ton of stuff in order not to overwhelm you. The most important thing to do is **_start_**. Start now. Start scared. Start
 before you know what you are doing. The rest will come and it will get easier with time, I promise. It may feel like nothing is happening for the longest time 
 but keep moving forward, knowledge compounds. I cannot wait for you to ask me fo more resources. **Ganbare!**
+
+
+
 
