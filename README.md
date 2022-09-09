@@ -156,7 +156,8 @@ move on to the next section while taking it ONLY if you are done with the previo
 learn and complements freeCodeCamp nicely with thoughtful explanations. Invest.
 - [freeCodeCamp:](https://www.freecodecamp.org/learn/2022/responsive-web-design/) Start from the top, with the new Responsive Web Design curriculum. Do not 
 run away from the projects. This is the most vital resource on here because there is just so much content besides the website challenges: 
-blog, forum, podcast, even a music radio.
+[tutorial blog](https://www.freecodecamp.org/news), [forum](https://forum.freecodecamp.org/), [podcast](https://freecodecamp.libsyn.com/), 
+and even a [live radio](https://coderadio.freecodecamp.org/) of lo-fi hip-hop beats for study and chill.
 - [The Odin Project:](https://www.theodinproject.com/paths) I found this after freeCodeCamp. They do almost the same thing but where fCC teaches extensively 
 and gives projects, these guys teach fundamentals then point you to outside resources. While doing fCC projects, I check in here every now and then to 
 revise topics and/or hunt resources on what I am currently learning. Do not throw it away but do not bother with every single project if you are doing fCC's 
