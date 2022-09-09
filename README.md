@@ -173,21 +173,21 @@ this site. I find the method of delivery to be a balance of theory and tasks, wh
 
 #### Tools, Libraries, Frameworks
 - [freeCodeCamp:](https://www.freecodecamp.org/learn/front-end-development-libraries/) _Will update once I complete the challenges._
-- Get comfortable using Git and Githubw. Consult Project Odin's [resources](https://www.theodinproject.com/lessons/foundations-introduction-to-git) 
-and the official [documentation](https://git-scm.com/book). I also found Pluralsight's videos on the topic better than any Youtube video.
+- Get comfortable using Git and Github. Consult Project Odin's [resources](https://www.theodinproject.com/lessons/foundations-introduction-to-git) 
+and the official [documentation](https://git-scm.com/book). I also found [Pluralsight's](https://app.pluralsight.com/library/) videos on the topic better 
+than any Youtube video.
 - Practice CSS design with Bootstrap. If you are not there yet, [learn](https://getbootstrap.com/docs/5.2/getting-started/introduction/).
 
 
 ## :bell: Dev Resources
 Important resources you will need on your journey.
-### General Resources
+### Gamified Resources
 - [Git Branching:](http://learngitbranching.js.org/) One of my favorite gamified resources out there.
-- [Pluralsight:](https://app.pluralsight.com/library/) Their introductory courses are a good alternative to Youtube tutorials. Look out for the GADS scholarship.
+- [Flexbox Froggy:](https://flexboxfroggy.com/) Another of my favorites.
 
 ### Frontend Resources
 - [MDN:](https://developer.mozilla.org/en-US/docs/Learn) Invaluable resource for web developers.
 - [CSS Tricks:](https://css-tricks.com/) Pot-of-gold at the end of the CSS rainbow.
-- [Flexbox Froggy:](https://flexboxfroggy.com/) Another of my favorite gamified resources.
 
 ### Backend Resources
 
