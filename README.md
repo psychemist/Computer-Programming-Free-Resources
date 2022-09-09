@@ -105,7 +105,7 @@ I ruined it by mentioning weird terms at the end, didn't I? Well, at this point 
 
 
 ## :bus: Last Bus Stop
-Before you go on to my roadmap, you should read this:
+Before you go any further, read this:
 - [Getting Started in Tech for Nigerians](https://medium.com/one-zero/a-nigerians-guide-to-a-career-in-tech-cdeaac6fd79a).  
 
 I will not be defining any terms here so I am going to lazily link 
@@ -116,13 +116,12 @@ Computer Science vs Computer Engineering? Programming vs Coding? Frontend vs Bac
 There are 1001 in base 10 definitions, and after enough time, either you get the hang of it or the differences cease to matter.
 
 ### Important References
-These are resources you should definitely look into and save as bookmarks. They will serve as a useful guide on your path, even more than this one you 
+These are resources you must look into and save as bookmarks. They will serve as a useful guide on your path, even more than this one you 
 are reading. I know I feel that way.
 - This amazing [Github repository](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) on how to level up as a fullstack web developer. I 
 particularly like this [section](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer#what-is-the-single-most-useful-cs-bookmark-you-have) 
-and this [section](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer#games-and-challenge-websites) but you should start from the [beginning](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer#start-here), obviously.
-- These detailed [Roadmaps](https://roadmap.sh/)! Start exploring [here](https://roadmap.sh/frontend).  
-These two have basically all you need in a roadmap.  
+and this [section](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer#games-and-challenge-websites) but start from the [beginning](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer#start-here), obviously.
+- These detailed [Roadmaps](https://roadmap.sh/)! Start exploring [here](https://roadmap.sh/frontend). 
 - The [OSSU](https://github.com/ossu/computer-science#curriculum) Computer Science curriculum which I plan to go through at some point. Any takers?
 
 
@@ -165,7 +164,7 @@ as well.
 - [Frontend Mentor:](https://www.frontend-mentor.io/challenges) Start this once you are done with freeCodeCamp's responsive web design challenges.
 
 #### JavaScript
-Now, you are learning your first programming language. You should have completed all 5 freeCodeCamp projects at least.  
+Now, you are learning your first programming language. You have completed all 5 freeCodeCamp projects web design projects, at least.  
 If not, go back [here](https://github.com/110nard0/Software-Engineering-Free-Roadmap#html--css). If yes, proceed...
 - [Modern JavaScript Tutorial:](https://javascript.info/) I really like this online tutorial. Most of the links in the Odin Project JS sections redirect to 
 this site. I find the method of delivery to be a balance of theory and tasks, which is ideal for learning and recall.
@@ -198,4 +197,4 @@ longest time but keep moving forward, knowledge compounds. I cannot wait for you
 **Ganbare!**
 
 **P.S.** Yes, joining a community is absolutely important. You can start from hanging out on tech twitter and attending dev meetups.  
-Pro tip: If it is too hard, start your own.
+Pro tip: If it is too hard to talk about learning new things with a bunch of strangers, start your own circle.
