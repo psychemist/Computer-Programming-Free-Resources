@@ -99,6 +99,7 @@ However, we are not in fantasy land and you need facts, so the path I recommend 
 - It is the perfect introduction to programming because it is very visual and you are already familiar with the web.
 - Its concepts are fairly easier to understand. You are coming from a non-tech background. Let's not make it harder for you.
 - You can easily decide which path to branch into after learning web development. By then you will be knowledgeable enough to make an informed choice.
+- You do not need to install any software except a code editor or IDE so it is perfect to learn on that old, struggling laptop.
 - HTML and CSS do not have control flow so you do not need bother about algorithms till you reach JavaScript.  
 
 I ruined it by mentioning weird terms at the end, didn't I? Well, at this point you're ready to dive into the deep end so LFG!!
@@ -107,6 +108,8 @@ I ruined it by mentioning weird terms at the end, didn't I? Well, at this point 
 ## :bus: Last Bus Stop
 Before you go any further, read this:
 - [Getting Started in Tech for Nigerians](https://medium.com/one-zero/a-nigerians-guide-to-a-career-in-tech-cdeaac6fd79a).  
+
+Read it again.  
 
 I will not be defining any terms here so I am going to lazily link 
 [this](https://medium.com/@meekg33k/getting-started-in-tech-what-you-need-to-know-7efec043ce03) and 
@@ -190,6 +193,7 @@ Important resources you will need on your journey.
 - [CSS Tricks:](https://css-tricks.com/) Pot-of-gold at the end of the CSS rainbow.
 
 ### Backend Resources
+- _TBD_
 
 ## :people_hugging: Closing
 I intentionally left out a ~~bunch~~ ton of stuff in order not to overwhelm you. The most important thing to do is **_start_**. Start now. Start scared. Start
